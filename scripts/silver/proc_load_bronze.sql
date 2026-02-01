@@ -1,4 +1,20 @@
+/*
+==========================================================================================
+Stored Procedure: Loading Silver Layer Data (Source > Silver)
+==========================================================================================
+Puropose of the script:
+This stored procedure loads the data into silver schema from bronze tables.
 
+Actions performed:
+- Truncates the table
+- Inserts the Data into silver tables by executing Data cleaning and Data Normalization steps derived from bronze data
+- Provides Error details if occured
+- Provides the Data loading time for each table and for overall bronze batch
+
+Stored Procedure usage:
+EXEC bronze.load_silver;
+==========================================================================================
+*/
 
 CREATE OR ALTER PROCEDURE silver.load_silver AS
 BEGIN
