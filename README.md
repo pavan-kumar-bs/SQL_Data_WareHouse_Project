@@ -85,15 +85,22 @@ This project was built as a learning initiative, and credit goes to **DataWithBa
 ---
 
 ## 📬 About Me
-I am a **Business Intelligence Analyst** with a strong interest in data analysis, data modeling, and building scalable analytical solutions.  
-This project reflects my effort to strengthen my technical foundation in Data Warehousing.
+Hi! I'm **Pavan Kumar**, a passionate **Business Intelligence Analyst** at **Société Générale** experienced in data analysis and business intelligence.  
 
+I have a strong interest in turning data into actionable insights and building interactive dashboards that help drive informed business decisions. My expertise lies in **Power BI**, **SQL**, and data visualization, and I'm always eager to explore new technologies in the data space.  
 
----
+## Skills & Tools
+- **Data Analysis & Visualization:** Power BI, Tableau, Excel
+- **Databases & Querying:** SQL, MySQL
+- **Business Intelligence:** Dashboard creation, KPI reporting, data storytelling
 
-## 🔹 Contact
+## Interests
+- Data Analytics & Visualization  
+- Business Intelligence Solutions  
+- Learning new data tools and technologies  
 
-Connect with me on LinkedIn: [Pavan Kumar](https://www.linkedin.com/in/pavan-kumar-69a246172)
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/) or check out my projects here on GitHub!
+
 
 
 
