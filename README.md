@@ -99,8 +99,6 @@ I have a strong interest in turning data into actionable insights and building i
 - Business Intelligence Solutions  
 - Learning new data tools and technologies  
 
-Feel free to connect with me on [LinkedIn](www.linkedin.com/in/pavan-kumar-69a246172) or check out my projects here on GitHub!
-
-
+Feel free to connect with me on **LinkedIn:** [www.linkedin.com/in/pavan-kumar-69a246172](https://www.linkedin.com/in/pavan-kumar-69a246172) or check out my projects here on GitHub!
 
 
