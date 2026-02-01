@@ -15,6 +15,25 @@ Although my primary background is in **Data Analysis**, I wanted to deepen my te
 
 ---
 
+## 🔹 Project Specifications
+
+**Data Sources:**  
+- Two source systems: **ERP** and **CRM**, provided as CSV files.
+
+**Data Quality:**  
+- Cleaned and resolved data quality issues before analysis.
+
+**Integration:**  
+- Combined both sources into a **single, user-friendly data model** optimized for analytical queries.
+
+**Scope:**  
+- Focused on the **latest dataset only**; historization of data is not included.
+
+**Documentation:**  
+- Clear documentation of the **data model** to support both business stakeholders and analytics teams.
+
+---
+
 ## 🏗️ Architecture Overview
 
 ### 🔹 Bronze Layer
@@ -33,24 +52,6 @@ Although my primary background is in **Data Analysis**, I wanted to deepen my te
 - Optimized for reporting and analysis
 
 ---
-
-## 📂 Project Structure
-QL_Data_WareHouse_Project/
-│
-├── datasets/
-│ ├── source_crm/
-│ └── source_erp/
-│
-├── scripts/
-│ ├── bronze/
-│ ├── silver/
-│ └── gold/
-│
-├── docs/
-│ └── architecture_notes.md
-│
-└── README.md
-
 
 ---
 
@@ -86,5 +87,13 @@ This project was built as a learning initiative, and credit goes to **DataWithBa
 ## 📬 About Me
 I am a **Business Intelligence Analyst** with a strong interest in data analysis, data modeling, and building scalable analytical solutions.  
 This project reflects my effort to strengthen my technical foundation in Data Warehousing.
+
+
+---
+
+## 🔹 Contact
+
+Connect with me on LinkedIn: [Pavan Kumar](https://www.linkedin.com/in/pavan-kumar-69a246172)
+
 
 
