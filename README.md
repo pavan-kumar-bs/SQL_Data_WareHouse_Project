@@ -74,8 +74,7 @@ SQL_Data_WareHouse_Project/
 │
 ├── LICENSE                 # MIT License
 └── README.md               # Project overview & documentation
-
-
+```
 ---
 
 ## 🛠️ Tools & Technologies Used
