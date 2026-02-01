@@ -82,6 +82,7 @@ SQL_Data_WareHouse_Project/
 - **SSMS (SQL Server Management Studio)**
 - **Git & GitHub**
 - **CSV source datasets**
+- **Draw.io**
 
 ---
 
