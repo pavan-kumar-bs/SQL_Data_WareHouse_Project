@@ -53,17 +53,27 @@ Although my primary background is in **Data Analysis**, I wanted to deepen my te
 
 ---
 
-📂 Repository Structure
+## 📁 Repository Structure
+
+```text
 SQL_Data_WareHouse_Project/
+│
 ├── datasets/               # Source datasets (ERP & CRM CSVs)
-├── docs/                   # Project documentation (data model, diagrams, notes)
-├── scripts/                # SQL scripts for ETL / layered transformations
-│   ├── bronze/             # Scripts to load raw source data
-│   ├── silver/             # Scripts for cleansing & transforming data
-│   └── gold/               # Scripts for dimensional models / analytics-ready views
-├── tests/                  # Quality checks / validation SQL scripts
+│
+├── docs/                   # Project documentation
+│   ├── data_model/         # Data model details
+│   ├── diagrams/           # Architecture & flow diagrams
+│   └── notes/              # Additional project notes
+│
+├── scripts/                # SQL scripts for ETL / transformations
+│   ├── bronze/             # Load raw source data
+│   ├── silver/             # Data cleansing & transformations
+│   └── gold/               # Dimensional models / analytics-ready views
+│
+├── tests/                  # Data quality & validation SQL scripts
+│
 ├── LICENSE                 # MIT License
-└── README.md               # Project overview, how-to, and documentation
+└── README.md               # Project overview & documentation
 
 
 ---
